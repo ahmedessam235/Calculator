@@ -1,0 +1,145 @@
+*{
+    box-sizing: border-box;
+}
+.myscreen{
+    background-color: black;
+    color: white;
+    vertical-align: middle;
+    text-align: end;
+     line-height: normal;
+     line-height: 60px;
+     height: 60px;
+     width: 25%;
+     font-size:larger;
+     padding-right: 3px;
+}
+.C{
+
+height: 70px;
+width: 12.5%;
+border: 2px solid black;
+}
+.backspace{
+width:6.25%;
+height: 70px;
+border: 2px solid black;
+}
+.Divide{
+ width:6.25%;
+height: 70px;
+background-color: coral;
+color: white;
+border: 2px solid black;
+}
+.firstrow{
+    display: flex;
+    justify-content: left;
+}
+button{
+    font-size: x-large;
+}
+button:hover{
+    background: #3374C2; 
+}
+.seven{
+
+    height: 70px;
+    width: 6.25%;
+    border: 2px solid black;
+    }
+.eight{
+
+    height: 70px;
+    width: 6.25%;
+    border: 2px solid black;
+    }
+.nine{
+width:6.25%;
+height: 70px;
+border: 2px solid black;
+}
+.multiply{
+width:6.25%;
+height: 70px;
+background-color: coral;
+color: white;
+border: 2px solid black;
+}
+.secondrow{
+    display: flex;
+    justify-content: left;
+}
+.four{
+
+    height: 70px;
+    width: 6.25%;
+    border: 2px solid black;
+    }
+.five{
+
+    height: 70px;
+    width: 6.25%;
+    border: 2px solid black;
+    }
+.six{
+width:6.25%;
+height: 70px;
+border: 2px solid black;
+}
+.subtract{
+width:6.25%;
+height: 70px;
+background-color: coral;
+color: white;
+border: 2px solid black;
+}
+.thirdrow{
+    display: flex;
+    justify-content: left;
+}
+.one{
+
+    height: 70px;
+    width: 6.25%;
+    border: 2px solid black;
+    }
+.two{
+
+    height: 70px;
+    width: 6.25%;
+    border: 2px solid black;
+    }
+.three{
+width:6.25%;
+height: 70px;
+border: 2px solid black;
+}
+.add{
+width:6.25%;
+height: 70px;
+background-color: coral;
+color: white;
+border: 2px solid black;
+}
+.fourthrow{
+    display: flex;
+    justify-content: left;
+}
+.fifthrow{
+    display: flex;
+    justify-content: left;
+}
+.zero{
+
+    height: 70px;
+    width: 18.75%;
+    border: 2px solid black;
+    }
+.equal{
+
+    width:6.25%;
+    height: 70px;
+    background-color: coral;
+    color: white;
+    border: 2px solid black;
+    }
